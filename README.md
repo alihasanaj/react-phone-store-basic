@@ -2,7 +2,13 @@
 
 About: Basic bootstrap and react phone website 
 
-What I used: React, Bootstrap, Font Awesome, Google Fonts, Netlify
+What I used: 
+React
+Bootstrap 
+Font Awesome 
+Google Fonts
+Netlify
+PayPal Sandbox
 
 What I learned: 
 Basic creation of modals 
