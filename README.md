@@ -1,3 +1,19 @@
+############
+
+About: Basic bootstrap and react phone website 
+
+What I used: React, Bootstrap, Font Awesome, Google Fonts, Netlify
+
+What I learned: 
+Basic creation of modals 
+React : CreateContext , ProductProvider, ProductConsumer
+Bootstrap : Navbar layout 
+
+
+Site can be viewed on netlify: https://react-phone-store-basic.netlify.com/
+
+############
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
