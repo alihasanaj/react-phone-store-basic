@@ -16,7 +16,7 @@ React : CreateContext , ProductProvider, ProductConsumer
 Bootstrap : Navbar layout 
 
 
-Site can be viewed on netlify: https://react-phone-store-basic.netlify.com/
+Site can be viewed on netlify: https://react-phone-store-basic.netlify.app/
 
 ############
 
